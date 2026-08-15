@@ -1,4 +1,4 @@
-Y//for(initilisation,conditions,updation)
+//for(initilisation,conditions,updation)
 //initilisation=assign a counter(int counter=0)
 //condition=counter<100
 //updation=(counter=counter+1)
